@@ -43,6 +43,7 @@ section p {
 
 a {
   display: inline-block;
+  vertical-align: middle;
   text-align: center;
   border: 3px solid #333;
   color: #666;
@@ -53,5 +54,10 @@ a {
 }
 
 a:hover {
-  color: #333;
+  color: #eee9de;
+  background-color: #666;
+}
+
+section {
+  max-width: 25em;
 }
