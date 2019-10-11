@@ -10,10 +10,17 @@ html {
 }
 
 body {
-  margin: .1em;
+  margin: 1.5rem;
 }
 
-.btn img {
+.btn {
+  display: block;
+  text-align: left;
+  width: 25em;
+  padding: .5em .75em;
+}
+
+img {
   display: block;
   text-align: left;
   width: 25em;
