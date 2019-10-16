@@ -22,7 +22,7 @@ body {
   padding: .75em;
   border: 3px solid #666;
   border-radius: .6em;
-  max-width: fit-conten;
+  max-width: fit-content;
   font-size: 1.1rem;
   background-color: #eee9de;
 }
