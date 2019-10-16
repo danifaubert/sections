@@ -14,10 +14,17 @@ body {
 }
 
 .btn {
+  color: #333;
+  text-decoration: none;
   display: block;
   text-align: left;
-  width: 25em;
-  padding: .5em .75em;
+  width: 100%;
+  padding: .75em;
+  border: 3px solid #666;
+  border-radius: .6em;
+  max-width: fit-conten;
+  font-size: 1.1rem;
+  background-color: #eee9de;
 }
 
 img {
